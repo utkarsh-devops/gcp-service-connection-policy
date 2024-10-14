@@ -24,6 +24,8 @@ module "service_connection_policy" {
   }
 }
 
+```
+
 ## Variables
 | Variable | Description | Type | Default |
 |------|-------------|------|---------|
